@@ -1,4 +1,6 @@
 # WebDevCodepens
 Snippets of Web Development using FreeCodeSchool
 
-http://codepen.io/shipj55/pen/oYqPPe
+Codepen Links: 
+1. Harambe Tribute: http://codepen.io/shipj55/pen/oYqPPe
+2. Personal Homepage: http://codepen.io/shipj55/pen/YpLQOX/
